@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theiari
 - 👀 I’m interested in barbecue, Dylan Dog & computer science
-- 🌱 I’m currently learning Java, C and C#
+- 🌱 I’m currently learning C#, webGL, Javascript (nothing fancy)
 
-Computer science engineering studend @ Università Degli Studi Roma Tre
+Master Computer engineering studend @ Università Degli Studi di Roma La Sapienza
